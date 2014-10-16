@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <prefectures>
-	<prefecture name="北海道" english="Hokkaido" id="1" />
-	<prefecture name="青森県" english="Aomori" id="2" />
-	<prefecture name="岩手県" english="Iwate" id="3" />
-	<prefecture name="宮城県" english="Miyagi" id="4" />
-	<prefecture name="秋田県" english="Akita" id="5" />
-	<prefecture name="山形県" english="Yamagata" id="6" />
-	<prefecture name="福島県" english="Fukushima" id="7" />
-	<prefecture name="茨城県" english="Ibaraki" id="8" />
-	<prefecture name="栃木県" english="Tochigi" id="9" />
-	<prefecture name="群馬県" english="Gunma" id="10" />
-	<prefecture name="埼玉県" english="Saitama" id="11" />
-	<prefecture name="千葉県" english="Chiba" id="12" />
-	<prefecture name="東京都" english="Tokyo" id="13" />
-	<prefecture name="神奈川県" english="Kanagawa" id="14" />
-	<prefecture name="新潟県" english="Niigata" id="15" />
-	<prefecture name="富山県" english="Toyama" id="16" />
-	<prefecture name="石川県" english="Ishikawa" id="17" />
-	<prefecture name="福井県" english="Fukui" id="18" />
-	<prefecture name="山梨県" english="Yamanashi" id="19" />
-	<prefecture name="長野県" english="Nagano" id="20" />
-	<prefecture name="岐阜県" english="Gifu" id="21" />
-	<prefecture name="静岡県" english="Shizuoka" id="22" />
-	<prefecture name="愛知県" english="Aichi" id="23" />
-	<prefecture name="三重県" english="Mie" id="24" />
-	<prefecture name="滋賀県" english="Shiga" id="25" />
-	<prefecture name="京都府" english="Kyoto" id="26" />
-	<prefecture name="大阪府" english="Osaka" id="27" />
-	<prefecture name="兵庫県" english="Hyogo" id="28" />
-	<prefecture name="奈良県" english="Nara" id="29" />
-	<prefecture name="和歌山県" english="Wakayama" id="30" />
-	<prefecture name="鳥取県" english="Tottori" id="31" />
-	<prefecture name="島根県" english="Shimane" id="32" />
-	<prefecture name="岡山県" english="Okayama" id="33" />
-	<prefecture name="広島県" english="Hiroshima" id="34" />
-	<prefecture name="山口県" english="Yamaguchi" id="35" />
-	<prefecture name="徳島県" english="Tokushima" id="36" />
-	<prefecture name="香川県" english="Kagawa" id="37" />
-	<prefecture name="愛媛県" english="Ehime" id="38" />
-	<prefecture name="高知県" english="Kochi" id="39" />
-	<prefecture name="福岡県" english="Fukuoka" id="40" />
-	<prefecture name="佐賀県" english="Saga" id="41" />
-	<prefecture name="長崎県" english="Nagasaki" id="42" />
-	<prefecture name="熊本県" english="Kumamoto" id="43" />
-	<prefecture name="大分県" english="Oita" id="44" />
-	<prefecture name="宮崎県" english="Miyazaki" id="45" />
-	<prefecture name="鹿児島県" english="Kagoshima" id="46" />
-	<prefecture name="沖縄県" english="Okinawa" id="47" />
+	<prefecture name="北海道" english="Hokkaido" id="1" capital="札幌" />
+	<prefecture name="青森県" english="Aomori" id="2" capital="青森" />
+	<prefecture name="岩手県" english="Iwate" id="3" capital="盛岡" />
+	<prefecture name="宮城県" english="Miyagi" id="4" capital="仙台" />
+	<prefecture name="秋田県" english="Akita" id="5" capital="秋田" />
+	<prefecture name="山形県" english="Yamagata" id="6" capital="山形" />
+	<prefecture name="福島県" english="Fukushima" id="7" capital="福島" />
+	<prefecture name="茨城県" english="Ibaraki" id="8" capital="水戸" />
+	<prefecture name="栃木県" english="Tochigi" id="9" capital="宇都宮" />
+	<prefecture name="群馬県" english="Gunma" id="10" capital="前橋" />
+	<prefecture name="埼玉県" english="Saitama" id="11" capital="さいたま" />
+	<prefecture name="千葉県" english="Chiba" id="12" capital="千葉" />
+	<prefecture name="東京都" english="Tokyo" id="13" capital="東京" />
+	<prefecture name="神奈川県" english="Kanagawa" id="14" capital="横浜" />
+	<prefecture name="新潟県" english="Niigata" id="15" capital="新潟" />
+	<prefecture name="富山県" english="Toyama" id="16" capital="富山" />
+	<prefecture name="石川県" english="Ishikawa" id="17" capital="金沢" />
+	<prefecture name="福井県" english="Fukui" id="18" capital="福井" />
+	<prefecture name="山梨県" english="Yamanashi" id="19" capital="甲府" />
+	<prefecture name="長野県" english="Nagano" id="20" capital="長野" />
+	<prefecture name="岐阜県" english="Gifu" id="21" capital="岐阜" />
+	<prefecture name="静岡県" english="Shizuoka" id="22" capital="静岡" />
+	<prefecture name="愛知県" english="Aichi" id="23" capital="名古屋" />
+	<prefecture name="三重県" english="Mie" id="24" capital="津" />
+	<prefecture name="滋賀県" english="Shiga" id="25" capital="大津" />
+	<prefecture name="京都府" english="Kyoto" id="26" capital="京都" />
+	<prefecture name="大阪府" english="Osaka" id="27" capital="大阪" />
+	<prefecture name="兵庫県" english="Hyogo" id="28" capital="神戸" />
+	<prefecture name="奈良県" english="Nara" id="29" capital="鳴ら" />
+	<prefecture name="和歌山県" english="Wakayama" id="30" capital="和歌山" />
+	<prefecture name="鳥取県" english="Tottori" id="31" capital="鳥取" />
+	<prefecture name="島根県" english="Shimane" id="32" capital="松江" />
+	<prefecture name="岡山県" english="Okayama" id="33" capital="岡山" />
+	<prefecture name="広島県" english="Hiroshima" id="34" capital="広島" />
+	<prefecture name="山口県" english="Yamaguchi" id="35" capital="山口" />
+	<prefecture name="徳島県" english="Tokushima" id="36" capital="徳島" />
+	<prefecture name="香川県" english="Kagawa" id="37" capital="高松" />
+	<prefecture name="愛媛県" english="Ehime" id="38" capital="松山" />
+	<prefecture name="高知県" english="Kochi" id="39" capital="高知" />
+	<prefecture name="福岡県" english="Fukuoka" id="40" capital="福岡" />
+	<prefecture name="佐賀県" english="Saga" id="41" capital="佐賀" />
+	<prefecture name="長崎県" english="Nagasaki" id="42" capital="長崎" />
+	<prefecture name="熊本県" english="Kumamoto" id="43" capital="熊本" />
+	<prefecture name="大分県" english="Oita" id="44" capital="大分" />
+	<prefecture name="宮崎県" english="Miyazaki" id="45" capital="宮崎" />
+	<prefecture name="鹿児島県" english="Kagoshima" id="46" capital="鹿児島" />
+	<prefecture name="沖縄県" english="Okinawa" id="47" capital="那覇" />
 </prefectures>
