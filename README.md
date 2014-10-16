@@ -1,4 +1,10 @@
 sampledata
 ==========
 
-sample data
+sample data for test or learning
+
+Files
+==========
+
+* prefectures.xml
+* prefectures.json
